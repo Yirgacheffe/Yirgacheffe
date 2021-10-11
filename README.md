@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I am Aaron. 👋
 
 <!--
 **Yirgacheffe/Yirgacheffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## I'm a Developer, Architect!!
+
+- 🔭 I’m currently not working in any company.
+- 🌱 I’m currently learning Golang.
+- 👯 I’m looking to collaborate with other architects and Gophers.
+- 🥅 2021 Goals: SBINZ Level2, master on Golang.
+- ⚡ Fun fact: I play badminton and snowboard. I love singing and play guitar~~
