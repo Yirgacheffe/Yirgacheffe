@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a Developer, Architect!!
+## I'm a Developer, Architect & Learner!!
 
 - 🔭 I’m currently not working in any company.
 - 🌱 I’m currently learning Golang.
