@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm a Developer, Architect & Learner!!
 
-- 🔭 I’m currently not working in any company.
+- 🔭 I’m currently working as a solution architect.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate with other architects and Gophers.
 - 🥅 2021 Goals: SBINZ Level2, master on Golang.
