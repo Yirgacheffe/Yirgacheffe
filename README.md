@@ -1,4 +1,4 @@
-### Hi there, I am Aaron YU. - (My repository name comes from a kind of 'Coffee')👋
+### Hi there, I am Aaron YU. - (My repository name comes from a kind of 'Coffee Bean')👋
 
 <!--
 **Yirgacheffe/Yirgacheffe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working as a solution architect.
 - 🌱 I’m currently learning Golang.
 - 👯 I’m looking to collaborate with other architects and Gophers.
-- 🥅 2021 Goals: SBINZ Level2, master on Golang.
+- 🥅 2022 Goals: SBINZ Level2, master on Golang.
 - ⚡ Fun fact: I play badminton and snowboard. I love singing and play guitar~~
 
 <br />
