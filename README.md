@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 
 [![AWS Certified Solutions Architect - Associate](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/36348a49-9ace-41a3-8f55-718899cadee5 "AWS Certified Solutions Architect - Associate")
 
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="36348a49-9ace-41a3-8f55-718899cadee5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 ### Languages and Tools:
 
 <img align="left" alt="Homebrew" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/homebrew/homebrew.png" />
