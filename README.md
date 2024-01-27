@@ -27,9 +27,7 @@ Here are some ideas to get you started:
 
 ## My Badges:
 
-[![AWS Certified Solutions Architect - Associate](https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/36348a49-9ace-41a3-8f55-718899cadee5 "AWS Certified Solutions Architect - Associate")
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="36348a49-9ace-41a3-8f55-718899cadee5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+[![AWS Certified Solutions Architect - Associate](https://images.credly.com/size/220x220/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/36348a49-9ace-41a3-8f55-718899cadee5 "AWS Certified Solutions Architect - Associate")
 
 ### Languages and Tools:
 
